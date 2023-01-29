@@ -1,0 +1,1 @@
+This script uses the PhysicsEngine, Scene, and Renderer classes to simulate and render a 3D physics scene. It creates a physics engine, a scene with two rigid bodies, and a renderer, and then enters a main loop that updates the physics simulation, renders the scene, and handles input and window events.
